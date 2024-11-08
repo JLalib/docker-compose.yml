@@ -1,2 +1,1 @@
-# docker-compose.yml
-Netdata | Monitoreo de sistemas
+# Netdata | Monitoreo de sistemas
